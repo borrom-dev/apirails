@@ -1,6 +1,6 @@
 # Restfull With Rails
 
-Welcome to Resfull development with rails 5, Our goal is to find a better way of development Resfull Api using RubyonRails.
+Welcome to Resfull development with rails 5, Our goal is to find a better way to develop Resfull Api using RubyonRails with best practice in mind.
 
 ## AccesToken
 
