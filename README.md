@@ -1,1 +1,3 @@
-# Web and API Development Using Ruby on Rails
+# Rest Api
+
+User login using basic authentication
