@@ -1,7 +1,7 @@
-# Rest Api
+# Restfull With Rails
 
-This is the sample restfull project build using rails 5
+Welcome to Resfull development with rails 5, Our goal is to find a better way of development Resfull Api using RubyonRails.
 
-## Get Access
+## Get Acces
 
 To gain access to the api what we need get basic token with username and password through basic Header Authentication
